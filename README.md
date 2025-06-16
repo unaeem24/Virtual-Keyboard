@@ -1,6 +1,3 @@
-Here's a well-structured `README.md` for your finger-detection keyboard overlay system using OpenCV:
-
----
 
 # Virtual Keyboard Key Detection from Video using Fingertip Tracking
 
