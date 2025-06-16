@@ -55,7 +55,7 @@ virtual_keyboard/
 
 ---
 
-## 🧑‍💻 How to Run
+##  How to Run
 
 1. **Install requirements:**
 
@@ -79,27 +79,7 @@ python main.py
 
 ---
 
-## 🔑 Key Customization
 
-The virtual key layout is defined in a `KEY_MAP` dictionary that uses a `(row, col)` format. You can extend or update it to match your own keyboard layout.
-
----
-
-## 🚧 Known Limitations
-
-* Lighting conditions and skin tone can affect fingertip detection.
-* Works best with static keyboard and single-finger input.
-* Designed for pre-recorded video, not live webcam input (though can be adapted).
-
----
-
-## 📌 Note
-
-Make sure to replace this condition:
-
-```python
-if _name_ == "_main_":
-```
 
 with the correct Python syntax:
 
